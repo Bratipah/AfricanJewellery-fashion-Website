@@ -86,7 +86,8 @@ ul.socials {
 
 /* card */
 .card {
-  widtj
+  width:350px;
+  height: 400px;
 }
 
 /* cart  */

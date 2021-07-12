@@ -3536,6 +3536,8 @@ footer h4.h05::after {
     background: var(--mainYellow);
     
   }
+  
+}
   .img-container {
     position: relative;
     overflow: hidden;

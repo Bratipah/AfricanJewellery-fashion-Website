@@ -11,7 +11,9 @@
   --yellowTrans: rgba(249, 228, 148, 0.5);
   --mainGrey: rgb(238, 238, 238);
 }
-
+body{
+  background: url("/images/hero-bg\ real.jpg");
+}
 
 /* nav links */
 .navbar-toggler {
@@ -419,6 +421,8 @@ header .row {
 /* end of cart buttons */
 
 /* store items */
+
+
 #store{
   margin-top: 100px;
 

@@ -1,6 +1,18 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700&display=swap");
-
+/*Cart styles*/
+.oneproduct-image{
+    height: 150px;
+    width: 100%;
+}
+.oneproduct-image-large{
+    height: 300px;
+    width: 100%;
+}
+.small_cart_image{
+    height:50px;
+    width: 100%;
+}
 /* common styling */
 
 * {

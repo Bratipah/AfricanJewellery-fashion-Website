@@ -353,6 +353,9 @@
     ],
   });
 
+  //Cart section
+  
+
   // blog section
   $(".blog_column3").owlCarousel({
     autoplay: true,

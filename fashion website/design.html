@@ -76,7 +76,7 @@
                         <div class="col-lg-5">
                             <div class="home_contact">
                                 <div class="contact_icone">
-                                    <img src="images/icon/icon_phone.png" alt="">
+                                    <!--<img src="images/icon/icon_phone.png" alt="">-->
                                 </div>
                                 <div class="contact_box">
                                     <p>Inquiry / Helpline : <a href="tel: 0702659103">0702659103</a></p>
@@ -86,7 +86,11 @@
 
                         <div class="col-lg-2 col-md-3 col-4">
                             <div class="logo">
+<<<<<<< HEAD
                                 <a href="#index.html"><img src="images/logo/logo-ash.png" alt=""></a>
+=======
+                                <!--<a href="index.html"><img src="images/logo/logo-ash.png" alt=""></a>-->
+>>>>>>> cfe68aeeea55b1c492f3c9bd02403ce99d46f8b7
                             </div>
                         </div>
 
@@ -105,9 +109,8 @@
                                     <a href="#"><i class="ion-heart"></i></a>
                                 </div>
                                 <div class="cart_link">
-                                    <a href="#"><i class="ion-android-cart"></i><span class="cart_text_quantity">KSH.
-                                            20,000</span><i class="ion-chevron-down"></i></a>
-                                    <span class="cart_quantity">2</span>
+                                    <a href="#" class="cart_view_link"><i class="ion-android-cart"></i><span class="cart_text_quantity" id="cart_total"></span><i class="ion-chevron-down"></i></a>
+                                    <span class="cart_quantity" class="cart_view_link" id="cart_qty"></span>
 
                                     <!-- mini cart -->
                                     <div class="mini_cart">
@@ -119,6 +122,7 @@
                                                 <a href="javascript:void(0)"><i class="ion-android-close"></i></a>
                                             </div>
                                         </div>
+<<<<<<< HEAD
                                         <div class="cart_item">
                                             <div class="cart_img">
                                                 <a href="#"><img src="images/product/Earrings/daintydangle.jpg" alt=""></a>
@@ -148,6 +152,12 @@
                                         <div class="cart_total">
                                             <span>Subtotal : </span>
                                             <span>Ksh. 30,000</span>
+=======
+                                        <div class="row" id="final_cart_items"></div>
+                                        <div class="cart_total">
+                                            <span>Subtotal : </span>
+                                            <span id="final_cart_total"></span>
+>>>>>>> cfe68aeeea55b1c492f3c9bd02403ce99d46f8b7
                                         </div>
                                         <div class="mini_cart_footer">
                                             <div class="cart_button view_cart">
@@ -215,6 +225,11 @@
                                                 </ul>
                                             </li>
                                             <li><a href="#">About Us</a></li>
+                                            <li><div class="cart_link">
+                                                <a href="#" class="cart_view_link"><i class="ion-android-cart"></i><span class="cart_text_quantity"></span><i class="ion-chevron-down"></i></a>
+                                                <span class="cart_quantity" class="cart_view_link"></span>
+
+                                        </div></li>
                                         </ul>
                                     </nav>
                                 </div>
@@ -311,6 +326,7 @@
                             <div class="tab-content">
                                 <div class="tab-pane fade show active" id="featured" role="tabpane1">
                                     <div class="product_container">
+<<<<<<< HEAD
                                         <div class="custom-row product_column3">
                                             <div class="custom-col-5">
                                                 <div class="single_product">
@@ -1638,6 +1654,11 @@
                                                 </div>
                                             </div>
                                         </div>
+=======
+                                       <div class="row" id="product_row">
+
+                                       </div>
+>>>>>>> cfe68aeeea55b1c492f3c9bd02403ce99d46f8b7
                                     </div>
                                 </div>
                             </div>
@@ -1762,7 +1783,7 @@
     </div>
 
     <!-- modal section starts -->
-    <div class="modal fade" id="modal_box" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal fade" id="oneproduct" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
             <div class="modal-content">
                 <button class="close" type="button" data-dismiss="modal" aria-label="Close">
@@ -1771,75 +1792,34 @@
                 <div class="modal_body">
                     <div class="container">
                         <div class="row">
-                            <div class="col-lg-5 col-md-5 col-sm-12">
-                                <div class="modal_tab">
-                                    <div class="tab-content product-details-large">
-                                        <div class="tab-pane fade show active" id="tab1" role="tabpanel">
-                                            <div class="modal_tab_img">
-                                                <a href="#"><img src="images/product/70.jpg" alt=""></a>
-                                            </div>
-                                        </div>
-                                        <div class="tab-pane fade" id="tab2" role="tabpanel">
-                                            <div class="modal_tab_img">
-                                                <a href="#"><img src="images/product/71.jpg" alt=""></a>
-                                            </div>
-                                        </div>
-                                        <div class="tab-pane fade" id="tab3" role="tabpanel">
-                                            <div class="modal_tab_img">
-                                                <a href="#"><img src="images/product/72.jpg" alt=""></a>
-                                            </div>
-                                        </div>
-                                        <div class="tab-pane fade" id="tab4" role="tabpanel">
-                                            <div class="modal_tab_img">
-                                                <a href="#"><img src="images/product/73.jpg" alt=""></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="modal_tab_button">
-                                        <ul class="nav product_navactive owl-carousel" role="tablist">
-                                            <li>
-                                                <a href="#tab1" class="nav-link active" data-toggle="tab" role="tab"
-                                                    aria-controls="tab1" aria-selected="false"><img
-                                                        src="images/product/70.jpg" alt=""></a>
-                                            </li>
-                                            <li>
-                                                <a href="#tab2" class="nav-link" data-toggle="tab" role="tab"
-                                                    aria-controls="tab2" aria-selected="false"><img
-                                                        src="images/product/71.jpg" alt=""></a>
-                                            </li>
-                                            <li>
-                                                <a href="#tab3" class="nav-link button_three" data-toggle="tab"
-                                                    role="tab" aria-controls="tab3" aria-selected="false"><img
-                                                        src="images/product/72.jpg" alt=""></a>
-                                            </li>
-                                            <li>
-                                                <a href="#tab4" class="nav-link" data-toggle="tab" role="tab"
-                                                    aria-controls="tab4" aria-selected="false"><img
-                                                        src="images/product/73.jpg" alt=""></a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
+                            <div class="col-lg-5 col-md-5 col-sm-12" id="prodimage">
+
                             </div>
                             <div class="col-lg-7 col-md-7 col-sm-12">
                                 <div class="modal_right">
                                     <div class="modal_title mb-10">
+<<<<<<< HEAD
                                         <h2>Necklace, Earrings,Rings,Bags</h2>
                                     </div>
                                     <div class="modal_price mb-10">
                                         <span class="current_price">Ksh. 1500</span>
+=======
+                                        <h2 id="prodname"></h2>
+                                    </div>
+                                    <div class="modal_price mb-10">
+                                        <span class="new_price" id="prodprice"></span>
+>>>>>>> cfe68aeeea55b1c492f3c9bd02403ce99d46f8b7
                                     </div>
                                 
                                     <div class="modal_add_to_cart mb-15">
-                                        <form action="#">
-                                            <input type="number" min="0" max="100" step="1">
-                                            <button type="submit">Add To Cart</button>
+                                        <form action="#" id="cart_form">
+                                            <input type="number" id="qty" min="1" max="100" step="1">
+                                            <button type="submit" id="submit_Cart">Add To Cart</button>
                                         </form>
+
                                     </div>
                                     <div class="modal_description mb-15">
-                                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus quibusdam
-                                            nisi voluptas consequatur tempora, recusandae nemo blanditiis eaque odit
-                                            voluptatibus voluptatem, ipsa incidunt fugiat a.</p>
+                                        <p id="proddescr"></p>
                                     </div>
                                     <div class="modal_social">
                                         <h2>Share this Product</h2>
@@ -1860,12 +1840,8 @@
     <!-- modal section ends -->
 
 
-
-
-
-
-
     <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+
     <!-- JavaScript Bundle with Popper.js -->
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
@@ -1873,6 +1849,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
 
     <script src="main.js"></script>
+    <script src="cart.js"></script>
 </body>
 
-</html
+</html>

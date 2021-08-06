@@ -1,0 +1,66 @@
+[
+  {
+    "product_id": "1",
+    "product_name": "Necklace",
+    "product_price": "400",
+    "product_description" : "This is an orange coloured necklace that is beaded",
+    "product_image": "./images/product/Necklace/Beaded Necklace -400.jpeg",
+    "product_category": "Ring, Necklace, Earrings"
+  },
+  {
+    "product_id": "2",
+    "product_name": "Necklace",
+    "product_price": "400",
+    "product_description" : "This is a stunner of a gold plated necklace.",
+    "product_image": "./images/product/Necklace/neck.jpg",
+    "product_category": "Ring, Necklace, Earrings"
+  },
+  {
+    "product_id": "3",
+    "product_name": "Rings",
+    "product_price": "1500",
+    "product_description" : "This is a gold plated ring that fits perfectly in your fingers",
+    "product_image": "images/product/Rings/ring long.jpg",
+    "product_category": "Ring, Necklace, Earrings"
+  },
+  {
+    "product_id": "4",
+    "product_name": "Rings",
+    "product_price": "1500",
+    "product_description" : "This ring made from brass shows power and beauty",
+    "product_image": "images/product/Rings/ring.jpg",
+    "product_category": "Ring, Necklace, Earrings"
+  },
+  {
+    "product_id": "5",
+    "product_name": "Bags and Wallets",
+    "product_price": "1500",
+    "product_description" : "This is a traditionl african print bag and wallet",
+    "product_image": "images/product/Bags and wallets/kiondo1.jpg",
+    "product_category": "Ring, Necklace, Earrings"
+  },
+  {
+    "product_id": "6",
+    "product_name": "Bags and Wallets",
+    "product_price": "1500",
+    "product_description" : "This is an orange coloured necklace that is beaded",
+    "product_image": "./images/product/Necklace/Beaded Necklace -400.jpeg",
+    "product_category": "Ring, Necklace, Earrings"
+  },
+  {
+    "product_id": "7",
+    "product_name": "Bags and wallet",
+    "product_price": "1500",
+    "product_description" : "This is a yellow handcrafted minimalisso bag",
+    "product_image": "images/product/Bags and wallets/g-minimalismo.jpg",
+    "product_category": "Ring, Necklace, Earrings"
+  },
+  {
+    "product_id": "8",
+    "product_name": "Bags and wallets",
+    "product_price": "1500",
+    "product_description" : "This is a brown handcrafted kiondo",
+    "product_image": "images/product/Bags and wallets/kiondo11.jpg",
+    "product_category": "Ring, Necklace, Earrings"
+  }
+] 

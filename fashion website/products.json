@@ -18,7 +18,7 @@
   {
     "product_id": "3",
     "product_name": "Rings",
-    "product_price": "1500",
+    "product_price": "400",
     "product_description" : "This is a gold plated ring that fits perfectly in your fingers",
     "product_image": "images/product/Rings/ring long.jpg",
     "product_category": "Ring, Necklace, Earrings"
@@ -26,7 +26,7 @@
   {
     "product_id": "4",
     "product_name": "Rings",
-    "product_price": "1500",
+    "product_price": "400",
     "product_description" : "This ring made from brass shows power and beauty",
     "product_image": "images/product/Rings/ring.jpg",
     "product_category": "Ring, Necklace, Earrings"

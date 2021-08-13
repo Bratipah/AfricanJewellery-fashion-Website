@@ -42,7 +42,7 @@
   {
     "product_id": "6",
     "product_name": "Pillows and Art",
-    "product_price": "1500",
+    "product_price": "1000",
     "product_description" : "This is a blue colored shelf art for wall decor",
     "product_image": "images/product/Pillows/g-yellowwall.jpg",
     "product_category": "Ring, Necklace, Earrings"
@@ -66,7 +66,7 @@
   {
     "product_id": "9",
     "product_name": "Necklace",
-    "product_price": "1500",
+    "product_price": "500",
     "product_description" : "This is a crystal black coloured necklace that is beaded with both small and large beads",
     "product_image": "images/product/Necklace/Crystal Black Necklace-400.jpeg",
     "product_category": "Ring, Necklace, Earrings"
@@ -74,7 +74,7 @@
   {
     "product_id": "10",
     "product_name": "Earring",
-    "product_price": "1500",
+    "product_price": "550",
     "product_description" : "This is a half-moon shutterbug gold plated earring from brass.",
     "product_image": "images/product/Earrings/shutterbug.jpg",
     "product_category": "Ring, Necklace, Earrings"
@@ -82,7 +82,7 @@
   {
     "product_id": "11",
     "product_name": "Pillow",
-    "product_price": "1500",
+    "product_price": "1000",
     "product_description" : "This is an African themed pillow to ease both your back and neck pains and comfort.",
     "product_image": "images/product/Pillows/pillow.jpg",
     "product_category": "Ring, Necklace, Earrings, Pillow"
@@ -114,7 +114,7 @@
   {
     "product_id": "15",
     "product_name": "Earring",
-    "product_price": "1500",
+    "product_price": "550",
     "product_description" : "This is a circle and triangle shaped mid-short earring gold in color.",
     "product_image": "images/product/Earrings/flat cone.jpg",
     "product_category": "Ring, Necklace, Earrings"
@@ -122,7 +122,7 @@
   {
     "product_id": "16",
     "product_name": "Architecture",
-    "product_price": "1500",
+    "product_price": "1000",
     "product_description" : "This is an frame architecture art for your wall decor.",
     "product_image": "images/product/Pillows/architecture.jpg",
     "product_category": "Ring, Necklace, Earrings"
@@ -130,7 +130,7 @@
   {
     "product_id": "17",
     "product_name": "Earring",
-    "product_price": "1500",
+    "product_price": "550",
     "product_description" : "This is a triangle shaped long earring gold in color.",
     "product_image": "images/product/Earrings/triangle.jpg",
     "product_category": "Ring, Necklace, Earrings"
@@ -138,7 +138,7 @@
   {
     "product_id": "18",
     "product_name": "Earring",
-    "product_price": "1500",
+    "product_price": "550",
     "product_description" : "This is a trio-triangle stacked splendidly brass earring gold in color .",
     "product_image": "images/product/Earrings/triotriangle.jpg",
     "product_category": "Ring, Necklace, Earrings"
@@ -146,7 +146,7 @@
   {
     "product_id": "19",
     "product_name": "Earring",
-    "product_price": "1500",
+    "product_price": "550",
     "product_description" : "This is a daintydangling brass earring gold in color .",
     "product_image": "images/product/Earrings/daintydangle.jpg",
     "product_category": "Ring, Necklace, Earrings"
@@ -154,7 +154,7 @@
   {
     "product_id": "20",
     "product_name": "Earring",
-    "product_price": "1500",
+    "product_price": "550",
     "product_description" : "This is a rectangle looped brass earring gold in color .",
     "product_image": "images/product/Earrings/IMG-20210126-WA0025.jpg",
     "product_category": "Ring, Necklace, Earrings"

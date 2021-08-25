@@ -2008,6 +2008,7 @@ ul {
 }
 
 /* ***********************subscribe *********** */
+
 .newsletter_area {
   border-bottom: 1px solid #ebebeb;
   padding-bottom: 70px;
@@ -2141,7 +2142,7 @@ p {
 /* ******************* ************* */
 /* footer section */
 .footer_black {
-  border-top: 1px solid #2d2d2d;
+  border-top: 1px solid #575656;
   padding-top: 67px;
 }
 
